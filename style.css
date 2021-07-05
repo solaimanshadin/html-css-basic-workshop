@@ -18,6 +18,9 @@ button{
     font-size: 18px;
     border-radius: 5px;
 }
+img{
+    max-width: 100%;
+}
 
 .intro-section {
     background-image: url('images/header-bg.png');
